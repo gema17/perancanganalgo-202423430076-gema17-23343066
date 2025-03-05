@@ -59,9 +59,6 @@
 <h3 align="left">Stats</h3>
 
 ###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=gema17&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
